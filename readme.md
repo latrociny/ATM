@@ -1,0 +1,1 @@
+This is my project to find various societal correlations with number of ATMs in a country
